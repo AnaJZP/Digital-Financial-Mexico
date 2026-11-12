@@ -1,0 +1,8 @@
+,value
+eps,0.7827
+min_samples,10.0
+pca_var_explained,0.7687
+n_clusters,5.0
+noise_share,0.0208
+ARI_vs_kmeans,0.4302
+silhouette_nonnoise,0.2813

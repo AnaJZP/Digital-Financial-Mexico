@@ -1,0 +1,6 @@
+K,transform,silhouette,ARI_vs_main,initial_laggards_in_bottom2_2018Q1,initial_laggards_in_bottom2_2026Q1,adult_share_bottom2_2018Q1,adult_share_bottom2_2026Q1,upward_moves_post2022,relative_log_initial_laggards_in_bottom2_2026Q1,bootstrap_ARI
+5,z-score,0.3181,0.9088,15,15,0.5232,0.5265,16,,0.9615
+6,z-score,0.3272,0.9463,15,15,0.5232,0.5265,19,,0.9538
+7,z-score,0.3408,1.0,15,15,0.5232,0.5265,16,,0.936
+8,z-score,0.2971,0.8331,15,0,0.5232,0.0,17,,0.7817
+7,log + z-score,0.2659,0.659,13,8,0.4996,0.2586,20,14.0,

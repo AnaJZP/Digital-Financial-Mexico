@@ -1,0 +1,4 @@
+period,transitions,moves,upward,downward,mobility_rate
+Pre-COVID (2018–2019),224,1,1,0,0.0045
+COVID (2020–2021),256,0,0,0,0.0
+Post-COVID (2022–2026),544,20,16,4,0.0368

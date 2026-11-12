@@ -1,0 +1,54 @@
+Stage,State,from,to,quarters
+Early adopters,Colima,2022Q3,2026Q1,15
+Early adopters,Querétaro,2018Q1,2026Q1,33
+Early majority,Aguascalientes,2018Q1,2026Q1,33
+Early majority,Baja California,2018Q1,2026Q1,33
+Early majority,Chihuahua,2018Q1,2026Q1,33
+Early majority,Coahuila,2018Q1,2026Q1,33
+Early majority,Nuevo León,2026Q1,2026Q1,1
+Early majority,Quintana Roo,2025Q3,2026Q1,3
+Early majority,San Luis Potosí,2023Q3,2023Q4,2
+Early majority,Sinaloa,2018Q1,2026Q1,33
+Early majority,Sonora,2018Q1,2026Q1,33
+Early majority,Tamaulipas,2018Q1,2026Q1,33
+Entrenched laggards,Campeche,2018Q1,2023Q1,21
+Entrenched laggards,Chiapas,2018Q1,2023Q2,22
+Entrenched laggards,Durango,2018Q1,2022Q4,20
+Entrenched laggards,Guerrero,2018Q1,2022Q4,20
+Entrenched laggards,Hidalgo,2018Q1,2023Q1,21
+Entrenched laggards,Michoacán,2018Q1,2022Q4,20
+Entrenched laggards,Morelos,2018Q1,2023Q4,24
+Entrenched laggards,México,2018Q1,2025Q2,30
+Entrenched laggards,Oaxaca,2018Q1,2022Q2,18
+Entrenched laggards,Puebla,2018Q1,2023Q1,21
+Entrenched laggards,San Luis Potosí,2018Q1,2023Q2,22
+Entrenched laggards,Tabasco,2018Q1,2024Q2,26
+Entrenched laggards,Tlaxcala,2018Q1,2022Q3,19
+Entrenched laggards,Veracruz,2018Q1,2023Q1,21
+Entrenched laggards,Zacatecas,2018Q1,2022Q2,18
+Innovators I (frontier),Ciudad de México,2019Q3,2026Q1,27
+Innovators II,Baja California Sur,2018Q1,2026Q1,33
+Innovators II,Ciudad de México,2018Q1,2019Q2,6
+Innovators II,Nuevo León,2018Q1,2025Q4,32
+Innovators II,Quintana Roo,2018Q1,2025Q2,30
+Laggards in transition,Campeche,2023Q2,2026Q1,12
+Laggards in transition,Chiapas,2023Q3,2026Q1,11
+Laggards in transition,Durango,2023Q1,2026Q1,13
+Laggards in transition,Guerrero,2023Q1,2026Q1,13
+Laggards in transition,Hidalgo,2023Q2,2026Q1,12
+Laggards in transition,Michoacán,2023Q1,2026Q1,13
+Laggards in transition,Morelos,2024Q1,2026Q1,9
+Laggards in transition,México,2025Q3,2026Q1,3
+Laggards in transition,Oaxaca,2022Q3,2026Q1,15
+Laggards in transition,Puebla,2023Q2,2026Q1,12
+Laggards in transition,San Luis Potosí,2024Q1,2026Q1,9
+Laggards in transition,Tabasco,2024Q3,2026Q1,7
+Laggards in transition,Tlaxcala,2022Q4,2026Q1,14
+Laggards in transition,Veracruz,2023Q2,2026Q1,12
+Laggards in transition,Yucatán,2023Q3,2026Q1,11
+Laggards in transition,Zacatecas,2022Q3,2026Q1,15
+Late majority,Colima,2018Q1,2022Q2,18
+Late majority,Guanajuato,2018Q1,2026Q1,33
+Late majority,Jalisco,2018Q1,2026Q1,33
+Late majority,Nayarit,2018Q1,2026Q1,33
+Late majority,Yucatán,2018Q1,2023Q2,22

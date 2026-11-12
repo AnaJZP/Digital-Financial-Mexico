@@ -1,0 +1,8 @@
+stage,Entrenched laggards,Laggards in transition,Late majority,Early majority,Early adopters,Innovators II,Innovators I (frontier)
+Entrenched laggards,0.847,0.143,0.0,0.01,0.0,0.0,0.0
+Laggards in transition,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+Late majority,0.0,0.016,0.967,0.0,0.016,0.0,0.0
+Early majority,0.0,0.008,0.0,0.992,0.0,0.0,0.0
+Early adopters,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+Innovators II,0.0,0.0,0.0,0.041,0.0,0.959,0.0
+Innovators I (frontier),0.0,0.0,0.0,0.0,0.0,0.0,1.0
